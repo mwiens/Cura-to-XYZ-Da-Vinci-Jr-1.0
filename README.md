@@ -1,7 +1,5 @@
 # Cura-to-XYZ-Da-Vinci-Jr-1.0
 
-A script and short manual on how to use Cura to create gcode and convert it to XYZ Da Vinci Jr. 1.0 printer (3w file).
-
 Convert Cura/Slic3r G-code files to XYZ Da Vinci `.3w` format - no XYZ softwareware needed. It helps to use more powerfull software for additional supports, tweaks and better prints on XYZ Da Vinci printer.
 
 Built for the **Da Vinci Jr. 1.0** (firmware 2.4.8), but should work with other Da Vinci printers that use the v5 `.3w` format. Tested with Cura 5.11.
