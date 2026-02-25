@@ -1,0 +1,12 @@
+[Unit]
+Description=GCode to 3W Auto-Converter
+After=default.target
+
+[Service]
+Type=simple
+ExecStart=/home/YOUR_USERNAME/.bin/gcode-watcher.sh
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target
