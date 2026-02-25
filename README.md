@@ -203,6 +203,7 @@ The body is the full G-code (header + commands), PKCS7-padded to a 16-byte bound
 ## Credits
 
 - [miniMover](https://github.com/reality-boy/miniMover) by reality-boy
+- Originally inspired by [ThreeDub](https://gitlab.com/anthem/py-threedub) by anthem, which is not available anymore...
 
 ## License
 
